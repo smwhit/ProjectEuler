@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="problem1_multiples.cs" />
     <Compile Include="problem4_palindrome.cs" />
     <Compile Include="problem_3_prime_factors.cs" />
     <Compile Include="Program.cs" />
