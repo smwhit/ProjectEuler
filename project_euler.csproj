@@ -34,6 +34,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -44,10 +45,15 @@
     <Compile Include="problem1_multiples.cs" />
     <Compile Include="problem2_fibonacci.cs" />
     <Compile Include="problem4_palindrome.cs" />
+    <Compile Include="problem_10_sum_of_primes.cs" />
+    <Compile Include="problem_12_factored_triangle.cs" />
+    <Compile Include="problem_14_longest_collatz.cs" />
+    <Compile Include="problem_16_power_digit_sum.cs" />
     <Compile Include="problem_3_prime_factors.cs" />
     <Compile Include="problem_5_remainder.cs" />
     <Compile Include="problem_6_sum_squares_difference.cs" />
     <Compile Include="problem_7_find_prime.cs" />
+    <Compile Include="problem_8_largest_product_in_a_series.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
